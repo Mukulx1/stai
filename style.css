@@ -1,0 +1,74 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+.box{
+  border:  #399ddb 4px solid;
+  padding:10px;
+  text-align:left;
+  width:85%;
+  margin:auto;
+  margin-top:14px;
+}
+.flex{
+  display:flex;
+  flex-wrap:wrap
+}
+.checkboxes{
+  text-align:right;
+  width:50% ;
+  margin-top:14px
+}
+.bbb{
+  width:48% ;
+  margin-top:14px;
+}
+#calc{
+  margin: 14px;
+  background-color: #399ddb;
+  color: white;
+  padding: 5px;
+  border:  #399ddb solid 1px;
+  border-radius: 4px;
+  font-size: larger;
+  padding:10px;
+}
+h1{
+  background-color: #399ddb;
+  padding: 8px;
+  color: white;
+}
+input{
+  border-radius: 1px;
+}
+NAV{
+  TEXT-ALIGN: start;
+    MARGIN: auto;
+    WIDTH: 50%;
+    list-style: none;
+    border:  #399ddb solid 4px;
+}
+li{
+  margin-left:14px;
+  padding: 14px;
+}
+select{
+  padding: 14px;
+}
+#red{
+  color: red;
+}
+footer{
+  background-color: #399ddb;
+  color: white;
+}
+a{
+  color: white;
+}
